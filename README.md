@@ -1,6 +1,6 @@
 # Machine learning  2020-2021 - UIB 
 
-This repository contains all the files to run this project.
+This repository contains all the files to run the project of Crist Alcázar.
 
 ## Install
 
@@ -23,7 +23,6 @@ environment with this commands.
 ```
     conda activate analisi_dades
     conda env create --file environment.yml
-
 ```
 
 **Scikit**
@@ -31,7 +30,6 @@ environment with this commands.
 Install Scikit-learn library of Python.
 ```
     pip install -U scikit-learn
-
 ```
 
 **Jupyter notebook**
@@ -39,5 +37,4 @@ Install Scikit-learn library of Python.
 Open Jupyter Notebook on your git folder.
 ```
     Jupyter notebook
-
 ```
