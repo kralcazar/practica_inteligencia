@@ -1,6 +1,6 @@
 # Machine learning  2020-2021 - UIB 
 
-This repository contains all the files to run the project of Crist Alcázar.
+This repository contains all the files to run the project of Crist Alcázar. The Jupyter notebook is in fifa folder.
 
 ## Install
 
