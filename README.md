@@ -34,7 +34,7 @@ Install Scikit-learn library of Python.
 
 **Jupyter notebook**
 
-Open Jupyter Notebook on your git folder.
+Open Jupyter Notebook running this command on your git folder from Anaconda prompt.
 ```
     Jupyter notebook
 ```
